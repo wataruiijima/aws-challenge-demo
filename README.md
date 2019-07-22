@@ -41,12 +41,6 @@ $cd aws-challenge-demo
 $sls deploy -v
 ```
 
-## 環境撤去方法
-```
-$cd aws-challenge-demo
-$sls remove -v
-```
-
 ### パラメータオプション
 sls deploy時にパラメータを設定できます。
 
@@ -55,4 +49,11 @@ sls deploy時にパラメータを設定できます。
 | stage | dev |
 | region | ap-northeast-1 |
 | profile | default |
+
+## 環境撤去方法
+```
+$cd aws-challenge-demo
+$sls remove -v
+```
+
 
