@@ -62,7 +62,7 @@ $sls remove -v
 
 Serverless Frameworkでデプロイが完了するとAPI Gatewayのendpointsが出力されます。
 
-まずは、ブラウザでAPI Gatewayのendpointsにアクセスをしてください。
+まずは、ブラウザでendpointsにアクセスをしてください。
 
 こんな感じ↓
 ![名称未設定](https://user-images.githubusercontent.com/11880332/61602690-8ab85c80-ac75-11e9-9f8b-f2ffc7998a49.png)
@@ -74,6 +74,8 @@ Serverless Frameworkでデプロイが完了するとAPI Gatewayのendpointsが�
 エラーとなるはずです。
 
 こんな感じ↓
+
+<img width="335" alt="スクリーンショット 2019-07-22 11 43 02" src="https://user-images.githubusercontent.com/11880332/61602785-f8fd1f00-ac75-11e9-992f-6be33e79ecee.png">
 
 ここからが課題のスタートです。
 
