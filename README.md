@@ -65,12 +65,13 @@ Serverless Frameworkでデプロイが完了するとAPI Gatewayのendpointsが�
 まずは、ブラウザでAPI Gatewayのendpointsにアクセスをしてください。
 
 こんな感じ↓
+![名称未設定](https://user-images.githubusercontent.com/11880332/61602690-8ab85c80-ac75-11e9-9f8b-f2ffc7998a49.png)
 
-「helloworld」をURLの末尾に追加しましょう！
+{key+}の部分は、「helloworld」に置き換えます。
 
 すると、なんということでしょう！
 
-やはり、エラーとなるはずです。
+エラーとなるはずです。
 
 こんな感じ↓
 
