@@ -29,10 +29,17 @@ Lambdaの設定が悪いのか？
 
 > https://serverless.com/
 
+**Serverless Framework** をインストールしていない場合
+```
+$ npm install -g serverless
+```
+
+
 ```
 $sls -v
 1.44.1
 ```
+
 
 ## 環境構築方法
 ```
